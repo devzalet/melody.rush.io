@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Privacy Policy - Melody Rush (MR)</title>
+
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+            max-width: 900px;
+            margin: auto;
+            padding: 40px 20px;
+            line-height: 1.7;
+            background: #f5f5f5;
+            color: #222;
+        }
+
+        .container{
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+        }
+
+        h1,h2,h3{
+            color: #111;
+        }
+
+        a{
+            color: #1a73e8;
+        }
+
+        .date{
+            opacity: 0.7;
+            margin-bottom: 30px;
+        }
+
+        ul{
+            padding-left: 20px;
+        }
+
+        code{
+            background: #eee;
+            padding: 2px 6px;
+            border-radius: 4px;
+        }
+
+        .highlight-box{
+            background: #f8f9ff;
+            border-left: 4px solid #1a73e8;
+            padding: 18px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>Privacy Policy - Melody Rush (MR)</h1>
+
+    <p class="date">
+        Last updated: May 22, 2026
+    </p>
+
+    <p>
+        This Privacy Policy explains how <strong>Melody Rush (MR)</strong>
+        collects, uses, stores, and protects user information.
+    </p>
+
+    <p>
+        By using the game, you agree to the practices described in this Privacy Policy.
+    </p>
+
+    <h2>1. Information We Collect</h2>
+
+    <p>
+        <strong>Melody Rush (MR)</strong> does not directly collect personally
+        identifiable information such as:
+    </p>
+
+    <ul>
+        <li>Full names</li>
+        <li>Addresses</li>
+        <li>Phone numbers</li>
+        <li>Passwords</li>
+        <li>Personal photographs</li>
+    </ul>
+
+    <p>
+        However, the game may process limited technical or gameplay-related
+        information through integrated third-party services required for
+        gameplay functionality.
+    </p>
+
+    <p>
+        This information may include:
+    </p>
+
+    <ul>
+        <li>Device information</li>
+        <li>Operating system version</li>
+        <li>Crash logs and diagnostics</li>
+        <li>Gameplay progress and save data</li>
+        <li>Country or region</li>
+        <li>Anonymous identifiers required for cloud saving and account persistence</li>
+    </ul>
+
+    <h2>2. Third-Party Services</h2>
+
+    <p>
+        Melody Rush (MR) may use trusted third-party services to support
+        gameplay functionality, cloud saving, and in-app purchases.
+    </p>
+
+    <p>
+        These services may include:
+    </p>
+
+    <ul>
+        <li>PlayFab (cloud save and online functionality)</li>
+        <li>Google Play Services</li>
+        <li>Unity Gaming Services</li>
+        <li>Unity In-App Purchasing (IAP)</li>
+    </ul>
+
+    <p>
+        These providers may process technical information necessary for
+        the game to function properly.
+    </p>
+
+    <p>
+        Each third-party provider is responsible for its own privacy and
+        data handling practices.
+    </p>
+
+    <h2>3. How Information Is Used</h2>
+
+    <p>
+        Information may be used to:
+    </p>
+
+    <ul>
+        <li>Save player progress</li>
+        <li>Provide online functionality</li>
+        <li>Restore cloud save data</li>
+        <li>Improve stability and performance</li>
+        <li>Fix bugs and crashes</li>
+        <li>Verify in-app purchases</li>
+        <li>Prevent abuse or fraudulent activity</li>
+    </ul>
+
+    <h2>4. Account and Data Deletion</h2>
+
+    <p>
+        <strong>Melody Rush (MR)</strong> allows users to request or perform
+        account deletion.
+    </p>
+
+    <div class="highlight-box">
+        <h3>Delete your account from inside the game</h3>
+
+        <p>
+            Users can permanently delete their account and associated
+            gameplay data directly from within the game:
+        </p>
+
+        <p>
+            <strong>
+                Settings → Account → Delete Account
+            </strong>
+        </p>
+
+        <p>
+            When an account is deleted, associated gameplay progress and
+            cloud save data linked to the account may also be permanently removed.
+        </p>
+    </div>
+
+    <h3>Need help?</h3>
+
+    <p>
+        If you are unable to access the in-game deletion feature, you may
+        contact support to request account or data deletion:
+    </p>
+
+    <p>
+        <code>thegolmusicgame@gmail.com</code>
+    </p>
+
+    <p>
+        Please include the subject:
+    </p>
+
+    <p>
+        <code>Melody Rush Account Deletion Request</code>
+    </p>
+
+    <p>
+        Requests are typically processed within 7 business days.
+    </p>
+
+    <h2>5. Children's Privacy</h2>
+
+    <p>
+        Melody Rush (MR) is not intentionally directed toward children
+        below the minimum age required under applicable local laws.
+    </p>
+
+    <p>
+        We do not knowingly collect personal information from children.
+    </p>
+
+    <h2>6. Data Security</h2>
+
+    <p>
+        Reasonable measures are taken to protect information handled through
+        trusted third-party services. However, no online service can guarantee
+        complete security.
+    </p>
+
+    <h2>7. External Links</h2>
+
+    <p>
+        The game may contain links to external websites or services.
+        We are not responsible for the content or privacy practices of
+        third-party websites.
+    </p>
+
+    <h2>8. Changes to This Privacy Policy</h2>
+
+    <p>
+        This Privacy Policy may be updated from time to time.
+        Any changes will be reflected on this page with an updated revision date.
+    </p>
+
+    <h2>9. Contact</h2>
+
+    <p>
+        If you have questions regarding this Privacy Policy, your account,
+        or your data, contact:
+    </p>
+
+    <p>
+        <code>thegolmusicgame@gmail.com</code>
+    </p>
+
+</div>
+
+</body>
+</html>
